@@ -12,6 +12,6 @@
 
 +(NSString*)getUsefullString;
 {
-    return @"Usefull string";
+    return @"Usefull string v2";
 }
 @end
