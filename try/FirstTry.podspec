@@ -1,7 +1,11 @@
 Pod::Spec.new do |spec|
   spec.name             = "FirstTry"
   spec.version          = "1.1"
-  spec.license          = {:type => 'MIT'}
+  spec.license = { :type => 'MIT', :text => <<-LICENSE
+                   Copyright 2014
+                   Permission is granted to...
+                 LICENSE
+               }
   spec.homepage         = "https://github.com/csacsi/Trypod"
   spec.authors          = {'Csaba Toth' => 'asd@gmail.com'}
   spec.summary          = 'First try of private pods'
