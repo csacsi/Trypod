@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name             = "SecondTry"
+  spec.name             = "FirstTry"
   spec.version          = "1.0"
   spec.license = { :type => 'MIT', :text => <<-LICENSE
                    Copyright 2014
