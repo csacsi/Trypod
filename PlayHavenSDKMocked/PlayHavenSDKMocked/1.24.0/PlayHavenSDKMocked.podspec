@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name     = 'Playhaven-SDK'
+  s.name     = 'PlayHavenSDKMocked'
   s.version  = '1.24.0'
   s.license  = { :type => 'Apache 2.0',
                  :text => 'Copyright 2013 Medium Entertainment, Inc.
