@@ -27,8 +27,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'Cache', 'src', 'JSON', 'WaterWorks'
 
-  s.clean_paths = "example", "tests", "*.mobileprovision", "PlayHaven_SDK_Agreement.rtf"
-
   s.frameworks = 'SystemConfiguration', 'CFNetwork', 'StoreKit', 'CoreGraphics', 'QuartzCore'
 
 end
